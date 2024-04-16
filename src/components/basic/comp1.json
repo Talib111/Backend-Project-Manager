@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_basic_comp1s",
+  "info": {
+    "displayName": "comp1",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "mark": {
+      "type": "string"
+    }
+  }
+}
